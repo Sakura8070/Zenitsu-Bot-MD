@@ -52,7 +52,7 @@ class FakeShutdownEvent(object):
     is_set = isSet
 
 
-# Some global var iables we use
+# Some global variables we use
 DEBUG = False
 _GLOBAL_DEFAULT_TIMEOUT = object()
 PY25PLUS = sys.version_info[:2] >= (2, 5)
