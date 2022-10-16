@@ -4,8 +4,8 @@
 -----------------------------------------------------------------------------------------*/
 let handler = async (m, { conn, text, usedPrefix, command }) => {
 let regex = /x/g
-if (!text) throw '⚠️ Falto el número.'
-if (!text.match(regex)) throw `*Ejemplo de uso: ${usedPrefix + command} 521999340434x*`
+if (!text) throw '🥴Enter The Number.'
+if (!text.match(regex)) throw `*Example for use: ${usedPrefix + command} 91759197043x*`
 let random = text.match(regex).length, total = Math.pow(10, random), array = []
 for (let i = 0; i < total; i++) {
 let list = [...i.toString().padStart(random, '0')]
