@@ -12,7 +12,7 @@ array.push({ exists: true, jid: result, ...info })
 } else {
 array.push({ exists: false, jid: result })
 }}
-let txt = 'Registrados\n\n' + array.filter(v => v.exists).map(v => `• Nro: wa.me/${v.jid.split('@')[0]}\n*• Bio:* ${v.status || 'Sin descripcion'}\n*• Fecha:* ${formatDate(v.setAt)}`).join('\n\n') + '\n\n*No registrados*\n\n' + array.filter(v => !v.exists).map(v => v.jid.split('@')[0]).join('\n')
+let txt = '*ZENITSU BOT MD*\n\n Registered\n\n' + array.filter(v => v.exists).map(v => `• User: wa.me/${v.jid.split('@')[0]}\n*• Bio:* ${v.status || 'Sin descripcion'}\n*• Date:* ${formatDate(v.setAt)}`).join('\n\n') + '\n\n*UnRegistered*\n\n' + array.filter(v => !v.exists).map(v => v.jid.split('@')[0]).join('\n')
 m.reply(txt)
 }
 handler.command = /^nowa$/i
