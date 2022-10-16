@@ -4,9 +4,7 @@
 <a href="https://api.whatsapp.com/send/?phone=5219993404349&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/NKMODS-BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
-### ` PLUGINS `
-- HAVE PLUGIN IDEAS OR WANT TO GET MORE PLUGINS? CLICK ON [https://github.com/theh2so4/Mystic-Plugins](https://github.com/theh2so4/Mystic-Plugins)
-  
+
 ### `❗ Note ❗`
 - IT IS POSSIBLE THAT THE BOT HAS SOME FAULTS, THEY WILL BE SOLVED AS THEY ARE DETECTED
 - IF YOU ARE GOING TO EDIT COMPLETELY LEAVE THE CREDITS OF THE BOT 
