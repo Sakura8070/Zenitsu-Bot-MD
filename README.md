@@ -79,4 +79,4 @@ npm start
 
 <a href="https://youtube.com/c/NKMODS"><img src="https://user-images.githubusercontent.com/86371273/196015057-21c231b5-e3f4-418a-a7f0-925b27a389db.png" width="400" height="100" alt="YouTube-NKMODS"> </a>
 
-<a href="https://instagram.com/c/nkmods.666_opz"><img src="https://toppng.com/free-image/follow-us-on-instagram-logo-PNG-free-PNG-Images_79818" width="50" height="50" alt="Instagram-NKMODS"> </a>
+<a href="https://instagram.com/c/nkmods.666_opz"><img src="https://user-images.githubusercontent.com/86371273/196016048-128cb6dd-8ce7-47f9-9478-0dc78243870c.png" width="100" height="100" alt="Instagram-NKMODS"> </a>
