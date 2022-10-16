@@ -1,7 +1,7 @@
 {
     "name": "Zenitsu Bot",
     "version": "1.0.0",
-    "description": "Subscrib nkmods",
+    "description": "Subscribe nkmods",
     "main": "index.js",
     "type": "module",
     "directories": {
