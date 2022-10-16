@@ -5,8 +5,8 @@ import fs from 'fs'
 import { generateWAMessageFromContent } from '@adiwajshing/baileys'
 
 global.owner = [
-  ['917736799273', 'NKMODS - ZENITSU OWNER', true],
-  ['917591970432', 'Zenitsu Creater', true]
+  ['917736799273', 'NKMODS - ZENITSU BOT OWNER', true],
+  ['917591970432', 'Zenitsu Bot Creater', true]
 ] 
 global.suittag = ['917736799273'] 
 global.prems = ['917736799273'] 
