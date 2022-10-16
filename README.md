@@ -67,8 +67,8 @@ npm start
 ```
 
 ### ` ⚙️ Settings ⚙️ `
-- CLONE THE REPOSITORY [Click Here](https://github.com/NKMODS/Zenitsu-Bot-MD/fork)
-- CHANGE OWNER NUMBER [Click Here](https://github.com/NKMODS/Zenitsu-Bot-MD/blob/master/config.js)
+- CLONE THE REPOSITORY [Click •](https://github.com/NKMODS/Zenitsu-Bot-MD/fork)
+- CHANGE OWNER NUMBER [Click •](https://github.com/NKMODS/Zenitsu-Bot-MD/blob/master/config.js)
 
 
 <h2> Creator </h2>
