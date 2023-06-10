@@ -5,16 +5,16 @@ import fs from 'fs'
 import { generateWAMessageFromContent } from '@adiwajshing/baileys'
 
 global.owner = [
-  ['917736799273', 'NKMODS - ZENITSU BOT OWNER', true],
+  ['237656774511', 'NKMODS - ZENITSU BOT OWNER', true],
   ['917591970432', 'Zenitsu Bot Creater', true]
 ] 
 global.suittag = ['917736799273'] 
 global.prems = ['917736799273'] 
 
 global.packname = 'Zenitsu Bot͏'
-global.author = '𝓷𝓴𝓶𝓸𝓭𝓼⁶⁶⁶ O͏p͏z͏'
-global.wm = '𝓷𝓴𝓶𝓸𝓭𝓼⁶⁶⁶ O͏p͏z͏'
-global.igfg = '𝓷𝓴𝓶𝓸𝓭𝓼⁶⁶⁶ O͏p͏z͏'
+global.author = ' KEN~VOFC'
+global.wm = 'KEN~V OFC'
+global.igfg = 'KEN~V'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
 global.keysZens = ['fiktod', 'c2459db922', 'BF39D349845E', '675e34de8a', '37CC845916', '0b917b905e6f', '6fb0eff124']
